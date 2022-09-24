@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
-puzzle-movies
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgantsov&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgantsov&layout=compact&theme=react&exclude_repo=musicrpi,react-blog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgantsov&layout=compact&theme=react&exclude_repo=musicrpi,react-blog&hide=html,css,roff,QMake&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
