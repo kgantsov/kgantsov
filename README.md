@@ -21,4 +21,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgantsov&layout=compact&theme=react&exclude_repo=musicrpi,react-blog&hide=html,css,roff,Makefile,QMake,less,SCSS&langs_count=10&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://tryhackme-badges.s3.amazonaws.com/gzipper.png?version=4)](https://tryhackme.com/p/gzipper)
+[![Anurag's GitHub stats](https://tryhackme-badges.s3.amazonaws.com/gzipper.png?version=6)](https://tryhackme.com/p/gzipper)
