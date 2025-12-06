@@ -19,8 +19,11 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgantsov&count_private=true&show_icons=true&theme=react&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgantsov&layout=compact&theme=react&exclude_repo=musicrpi,react-blog&hide=html,css,roff,Makefile,QMake,less,SCSS&langs_count=10&v=7)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ![GitHub Card](https://githubcard.com/kgantsov.svg?d=ZKSq0oMH)
+-->
+
+![GitHub Card](https://githubcard.com/kgantsov.svg?d=hHOUjJHn)
+![GitHub Card](https://githubcard.com/kgantsov.svg?d=mzOuPRpJ)
 
 [![Anurag's GitHub stats](https://tryhackme-badges.s3.amazonaws.com/gzipper.png?version=6)](https://tryhackme.com/p/gzipper)
