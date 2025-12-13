@@ -25,7 +25,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 ![GitHub Card](https://githubcard.com/kgantsov.svg?d=mzOuPRpJ)
 -->
 
-![GitHub Card](https://githubcard.com/kgantsov.svg?d=ZKSq0oMH)
-
+![GitHub Card](https://githubcard.com/kgantsov.svg?d=Swrmicai)
 
 [![Anurag's GitHub stats](https://tryhackme-badges.s3.amazonaws.com/gzipper.png?version=6)](https://tryhackme.com/p/gzipper)
